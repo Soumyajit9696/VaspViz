@@ -77,3 +77,14 @@ If no file is provided, you can load your `vasprun.xml`, `POSCAR`, or `OUTCAR` d
 Developed by Soumyajit Das at the National Institute of Technology Silchar, Assam, India.
 
 For bug reports, feature requests, or contributions, please contact the developer.
+
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/cee02a71-2a20-4243-8d0a-e48ab0cf539a" />
+
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/16d92b92-432c-4d9e-b9e7-d7768c94a68e" />
+
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b48cc96f-ebfd-4a16-b8ce-1616239d8b9d" />
+
+
