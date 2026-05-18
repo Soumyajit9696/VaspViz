@@ -2,7 +2,7 @@
 
 **Developer:** Soumyajit Das, NIT Silchar
 
-VaspViz is a comprehensive, cross-platform PyQt6-based application designed for the professional analysis and visualization of VASP (Vienna Ab initio Simulation Package) outputs. It offers a suite of interactive tools to inspect electronic structure, crystal geometry, convergence, and charge density, replacing the need for multiple disparate scripts and older visualization software.
+VaspViz is a comprehensive, cross-platform PyQt6-based application designed for the professional analysis and visualization of VASP (Vienna Ab initio Simulation Package) outputs. It offers a suite of interactive tools to inspect electronic structure, crystal geometry, convergence, and charge density, replacing the need for multiple disparate scripts and older visualization software. Developed using the help of AI.
 
 
 <img src="assets/logo-vasvz.png" width="150">
@@ -76,4 +76,4 @@ If no file is provided, you can load your `vasprun.xml`, `POSCAR`, or `OUTCAR` d
 ## Credits & Support
 Developed by Soumyajit Das at the National Institute of Technology Silchar, Assam, India.
 
-For bug reports, feature requests, or contributions, please contact the developer or open an issue on the repository.
+For bug reports, feature requests, or contributions, please contact the developer.
