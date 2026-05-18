@@ -4,7 +4,7 @@
 
 VaspViz is a comprehensive, cross-platform PyQt6-based application designed for the professional analysis and visualization of VASP (Vienna Ab initio Simulation Package) outputs. It offers a suite of interactive tools to inspect electronic structure, crystal geometry, convergence, and charge density, replacing the need for multiple disparate scripts and older visualization software.
 
-![VaspViz Logo](assets/logo-vasvz.png
+
 <img src="assets/logo-vasvz.png" width="150">
 
 ## Key Features
